@@ -2,7 +2,7 @@
 
 ![workflow](demo/6.jpeg)
 
-Recommendation systems play a crucial role in today's fast-paced world, aiding users in making informed choices amidst a sea of content. Leveraging machine learning techniques, this project focuses on developing a content-based movie recommendation system enhanced with Natural Language Processing (NLP) capabilities.
+Recommendation systems play a crucial role in today's fast-paced world, aiding users in making informed choices amidst a sea of content. Leveraging machine learning techniques, this project focuses on developing a content-based movie recommendation system enhanced with NLP capabilities.
 
 ## Key Highlights:
 - **Content-Based Recommendation**: Utilizes characteristic information and item attributes to offer personalized movie suggestions.
